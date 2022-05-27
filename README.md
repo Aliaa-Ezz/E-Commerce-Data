@@ -5,4 +5,11 @@ Then I got some questions to answer:
 - Which country has the maximum payment customer?
 - What is the most popular purchase?
 - Timelines of purchases in different countries
-- The most expensive unit prices countries.
+- The most expensive unit prices countries
+
+
+#### Libraries used in that project:
+- pandas
+- numpy
+- matplotlib
+- seaborn
